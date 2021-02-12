@@ -193,6 +193,6 @@ class __TwigTemplate_19ac23099492ba044c239b76b18e8fcbc4099a8f4f371f8cef577ef9dec
         {% block body '' %}
     </body>
 </html>
-", "@WebProfiler/Profiler/base.html.twig", "/Applications/XAMPP/xamppfiles/htdocs/Symfony.dev/actunews/actunews/vendor/symfony/web-profiler-bundle/Resources/views/Profiler/base.html.twig");
+", "@WebProfiler/Profiler/base.html.twig", "/Applications/XAMPP/xamppfiles/htdocs/Symfony.dev/news/vendor/symfony/web-profiler-bundle/Resources/views/Profiler/base.html.twig");
     }
 }

@@ -975,6 +975,6 @@ class Theme {
         return hash >>> 0;
     }
 }
-", "@WebProfiler/Collector/time.js", "/Applications/XAMPP/xamppfiles/htdocs/Symfony.dev/actunews/actunews/vendor/symfony/web-profiler-bundle/Resources/views/Collector/time.js");
+", "@WebProfiler/Collector/time.js", "/Applications/XAMPP/xamppfiles/htdocs/Symfony.dev/news/vendor/symfony/web-profiler-bundle/Resources/views/Collector/time.js");
     }
 }

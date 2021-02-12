@@ -3395,6 +3395,6 @@ body.outlook p {
         min-width: 0;
     }
 }
-", "@email/zurb_2/main.css", "/Applications/XAMPP/xamppfiles/htdocs/Symfony.dev/actunews/actunews/vendor/symfony/twig-bridge/Resources/views/Email/zurb_2/main.css");
+", "@email/zurb_2/main.css", "/Applications/XAMPP/xamppfiles/htdocs/Symfony.dev/news/vendor/symfony/twig-bridge/Resources/views/Email/zurb_2/main.css");
     }
 }

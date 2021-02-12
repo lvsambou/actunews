@@ -413,6 +413,6 @@ class __TwigTemplate_5a6caa377d1be608d78fc177bbbe529630e12876c8159262056350330f9
         </div>
     {% endfor %}
 {% endblock %}
-", "@Debug/Profiler/dump.html.twig", "/Applications/XAMPP/xamppfiles/htdocs/Symfony.dev/actunews/actunews/vendor/symfony/debug-bundle/Resources/views/Profiler/dump.html.twig");
+", "@Debug/Profiler/dump.html.twig", "/Applications/XAMPP/xamppfiles/htdocs/Symfony.dev/news/vendor/symfony/debug-bundle/Resources/views/Profiler/dump.html.twig");
     }
 }

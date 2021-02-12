@@ -191,6 +191,6 @@ class __TwigTemplate_e1fcdc70c8111876aa47d4d8dcf3c531b1473425184833d54e94adc898d
         {% block body %}{% endblock %}
     </body>
 </html>
-", "base.html.twig", "/Applications/XAMPP/xamppfiles/htdocs/Symfony.dev/actunews/actunews/templates/base.html.twig");
+", "base.html.twig", "/Applications/XAMPP/xamppfiles/htdocs/Symfony.dev/news/templates/base.html.twig");
     }
 }

@@ -227,6 +227,6 @@ class __TwigTemplate_d79783f0adcc41212d1c6fc695365f7eb336a4c54e69e66768fb10415d3
         </div>
     {% endif %}
 {% endblock %}
-", "@WebProfiler/Collector/exception.html.twig", "/Applications/XAMPP/xamppfiles/htdocs/Symfony.dev/actunews/actunews/vendor/symfony/web-profiler-bundle/Resources/views/Collector/exception.html.twig");
+", "@WebProfiler/Collector/exception.html.twig", "/Applications/XAMPP/xamppfiles/htdocs/Symfony.dev/news/vendor/symfony/web-profiler-bundle/Resources/views/Collector/exception.html.twig");
     }
 }

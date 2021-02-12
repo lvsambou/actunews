@@ -1558,6 +1558,6 @@ class __TwigTemplate_1a15b3937122c1dc4a4e0203731c5aa50feb87d0564e6bf832b29736774
         </small>
     {%- endif -%}
 {%- endblock form_help %}
-", "bootstrap_4_layout.html.twig", "/Applications/XAMPP/xamppfiles/htdocs/Symfony.dev/actunews/actunews/vendor/symfony/twig-bridge/Resources/views/Form/bootstrap_4_layout.html.twig");
+", "bootstrap_4_layout.html.twig", "/Applications/XAMPP/xamppfiles/htdocs/Symfony.dev/news/vendor/symfony/twig-bridge/Resources/views/Form/bootstrap_4_layout.html.twig");
     }
 }
