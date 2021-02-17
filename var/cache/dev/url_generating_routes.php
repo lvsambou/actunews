@@ -15,6 +15,8 @@ return [
     '_profiler_router' => [['token'], ['_controller' => 'web_profiler.controller.router::panelAction'], [], [['text', '/router'], ['variable', '/', '[^/]++', 'token', true], ['text', '/_profiler']], [], []],
     '_profiler_exception' => [['token'], ['_controller' => 'web_profiler.controller.exception_panel::body'], [], [['text', '/exception'], ['variable', '/', '[^/]++', 'token', true], ['text', '/_profiler']], [], []],
     '_profiler_exception_css' => [['token'], ['_controller' => 'web_profiler.controller.exception_panel::stylesheet'], [], [['text', '/exception.css'], ['variable', '/', '[^/]++', 'token', true], ['text', '/_profiler']], [], []],
+    'default_category' => [['alias'], ['_controller' => 'App\\Controller\\DefaultController::category'], [], [['variable', '/', '[^/]++', 'alias', true]], [], []],
+    'default_post' => [['category', 'alias', 'id'], ['_controller' => 'App\\Controller\\DefaultController::post'], [], [['text', '.html'], ['variable', '_', '[^/\\.]++', 'id', true], ['variable', '/', '[^/_]++', 'alias', true], ['variable', '/', '[^/]++', 'category', true]], [], []],
     'index' => [[], ['_controller' => 'App\\Controller\\DefaultController::index'], [], [['text', '/']], [], []],
     'contact' => [[], ['_controller' => 'App\\Controller\\DefaultController::contact'], [], [['text', '/contact']], [], []],
     'register' => [[], ['_controller' => 'App\\Controller\\UserController::register'], [], [['text', '/user/register']], [], []],
